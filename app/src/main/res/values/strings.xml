@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Canvas Menu</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">CANVAS</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="menu_tablero">Tablero</string>
+    <string name="menu_cuenta">Cuenta</string>
+    <string name="menu_cursos">Cursos</string>
+    <string name="menu_calendario">Calendario</string>
+    <string name="avatar">User Avatar</string>
+    <string name="user_name">Nombre: Pepito Perez</string>
+    <string name="facultad">Programa: Ingeieria Informatica</string>
+    <string name="semestre">Semestre: 9</string>
+</resources>
